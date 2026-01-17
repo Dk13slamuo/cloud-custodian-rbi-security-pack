@@ -50,7 +50,7 @@ Before using these policies, ensure you have the following:
 Policies are defined in YAML format and are located in the `policies` directory. Each policy file contains one or more policies that specify rules and actions for different AWS resources.
 
 Here is an example policy file (`example-policy.yml`):
-
+      ((((((
 ```yaml
 policies:
   - name: cloudtrail-enabled
