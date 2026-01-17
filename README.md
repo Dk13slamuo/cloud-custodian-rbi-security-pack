@@ -1,6 +1,6 @@
-      password # AWS RBI Compliance Policies using Cloud Custodian
 
-This repository contains AWS-specific policies designed to ensure compliance with the Reserve Bank of India (RBI) guidelines using Cloud Custodian. The policies are open-sourced under the Apache 2.0 license.
+     haha no hal 👍 😎 😚 5 lines of summary on me so you can do that to 
+
 
 ## Table of Contents
 
